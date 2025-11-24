@@ -1,7 +1,8 @@
 # config.py
 
 ORIGINS = [
-    "http://localhost:5173", 
+    "http://localhost:5173",
+    "https://classification-image.netlify.app"
 ]
 
 CORS_CONFIG = {
